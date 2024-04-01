@@ -17,7 +17,7 @@ specification, with **_italicized_** entries being optional:
 * **description** (string): used to describe what the purpose of the
   configuration file.
 * **version** (string): the semantic version of the configuration.
-* ** _type_ ** (string): Shortened description of the installation type.
+* **_type_** (string): Shortened description of the installation type.
   Supported schemes are 'vanilla' and 'ostree'.
 * **architecture** (string): The supported CPU architecture. Supported
   schemes are 'amd64' and 'arm64'.
